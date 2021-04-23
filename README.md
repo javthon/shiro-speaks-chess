@@ -167,13 +167,13 @@
 - 四郎出品，必属精品
 
 ## 附录
-[中国象棋术语维基百科版](https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9C%8B%E8%B1%A1%E6%A3%8B%E8%A1%93%E8%AA%9E)
-[中国象棋术语百度百科版](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E6%9C%AF%E8%AF%AD)
-[全国象棋个人赛](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AA%E4%BA%BA%E8%B5%9B)
-[全国象棋个人锦标赛](https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AA%E4%BA%BA%E9%94%A6%E6%A0%87%E8%B5%9B)
+- [中国象棋术语维基百科版](https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9C%8B%E8%B1%A1%E6%A3%8B%E8%A1%93%E8%AA%9E)
+- [中国象棋术语百度百科版](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E6%9C%AF%E8%AF%AD)
+- [全国象棋个人赛](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AA%E4%BA%BA%E8%B5%9B)
+- [全国象棋个人锦标赛](https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AA%E4%BA%BA%E9%94%A6%E6%A0%87%E8%B5%9B)
 
 ## 参与贡献
-如发现本文有误的地方或者有要更新的内容可以open issues或者直接参与写作
+如发现本文有误的地方或者有要更新的内容可以open issues或者直接参与写作<br>
 觉得本文精彩的棋友们你倒是点个赞那
 
 
