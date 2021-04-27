@@ -13,8 +13,8 @@
 
 
 ## 四郎讲棋BGM
-[在线试听（待完成）]()
-[下载地址](https://github.com/javthon/shiro-speaks-chess/releases/tag/v1.0)
+- [在线试听（推荐）](https://xxf.cool/documents/shiroSpeaksChess)（支持倍速播放）
+- [下载地址](https://github.com/javthon/shiro-speaks-chess/releases/tag/v1.0)
 
 ## 四郎讲棋经典台词
 ### 称谓
